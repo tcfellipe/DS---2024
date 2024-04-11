@@ -1,0 +1,12 @@
+Passo a Passo de como trocar um pneu de um carro:
+
+6: retirar o pneu reserva e o macaco hidráulico do porta-malas;
+7: localizar o ponto correto de apoio para o macaco do carro;
+8: posicionar o macaco hidráulico sob o carro;
+4: levantar o carro com o macaco hidráulico;
+1: afrouxar os parafusos do pneu furado;
+10: retirar os parafusos e remover o pneu furado;
+5: colocar o pneu reserva no lugar;
+9: apertar os parafusos do pneu reserva;
+3: baixar o carro com o macaco hidráulico e aperta ainda mais os parafusos;
+2: guardar o macaco hidráulico e o pneu furado no porta-malas
